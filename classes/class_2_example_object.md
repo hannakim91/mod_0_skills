@@ -1,5 +1,5 @@
-**Instance of Table Options:**
-4-top table at Hamburger Haven
+**Instance of TableOption:**
+tableAtHamburgerHaven
 
 **Attributes**
 * tableNumber: "Table 1"
@@ -7,7 +7,7 @@
 * numberOfChairs: 3
 * serversAvailable: ["Diana" "Johnny", "Lucy"]
 * maxChairs: 4
-* countGuests: 3
+* numberOfGuests: 3
 
 **Methods**
 * assignServer: serversAvailable.shift to assign "Diana" to "Table 1", leaving ["Johnny", "Lucy"] left as available servers

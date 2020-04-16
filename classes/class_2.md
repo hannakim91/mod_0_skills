@@ -1,5 +1,5 @@
 **Class:**
-Table Options
+TableOption
 
 **Attributes**
 * tableNumber (string)
@@ -7,7 +7,7 @@ Table Options
 * numberOfChairs (integer)
 * serversAvailable (array of strings)
 * maxChairs (integer)
-* countGuests (integer)
+* numberOfGuests (integer)
 
 **Methods**
 * assignServer (modify serversAvailable by using first server available and printing that string as the server at tableNumber)
